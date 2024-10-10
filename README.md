@@ -16,13 +16,13 @@ A Task Manager App is designed to help users organize and prioritize their daily
   
 ## Technologies Used
 
- - *Frontend*:
+ # *Frontend*:
 For building a dynamic and interactive user interface.
 
 - Tailwind CSS: For styling the app, enabling quick and responsive design.
 - Bootstrap or Material-UI: For component-based UI development.
 
-- *Backend*:
+ *Backend*:
 - Node.js with Express.js: To create the backend server and APIs for handling requests.
 - MongoDB: A NoSQL database for storing tasks and user data.
 
