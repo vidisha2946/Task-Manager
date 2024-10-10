@@ -17,7 +17,7 @@ A Task Manager App is designed to help users organize and prioritize their daily
 ## Technologies Used
 
  - *Frontend*:
-React.js or Angular: For building a dynamic and interactive user interface.
+For building a dynamic and interactive user interface.
 Tailwind CSS: For styling the app, enabling quick and responsive design.
 Bootstrap or Material-UI: For component-based UI development.
 
