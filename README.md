@@ -18,12 +18,13 @@ A Task Manager App is designed to help users organize and prioritize their daily
 
  - *Frontend*:
 For building a dynamic and interactive user interface.
-Tailwind CSS: For styling the app, enabling quick and responsive design.
-Bootstrap or Material-UI: For component-based UI development.
+
+- Tailwind CSS: For styling the app, enabling quick and responsive design.
+- Bootstrap or Material-UI: For component-based UI development.
 
 - *Backend*:
-Node.js with Express.js: To create the backend server and APIs for handling requests.
-MongoDB: A NoSQL database for storing tasks and user data.
+- Node.js with Express.js: To create the backend server and APIs for handling requests.
+- MongoDB: A NoSQL database for storing tasks and user data.
 
 ![Page-1](https://github.com/user-attachments/assets/b1a785e6-9129-43a0-ad08-03de03f87507)
 
